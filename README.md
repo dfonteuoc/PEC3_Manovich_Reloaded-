@@ -47,6 +47,8 @@ GitHub es un servicio basado en la nube que aloja un sistema de control de versi
 Github permite que los desarrolladores alojen sus proyectos creando repositorios de forma gratuita, pero para poder subir gratis los proyectos deberán ser de código abierto. Y si no quieres que tu aplicación sea de código abierto, la plataforma también tiene una versión de pago para alojar proyectos de forma privada.
 
 GITHUB es un claro ejemplo de hibridación de diferentes medios en el que se muestra que se le puede dar una utilidad al software para poder almacenar proyectos en la nube, al mismo tiempo poder compartilos y dar la posibilidad de reforzarlos con la ayuda de otros usuarios.
+GITHUB es el ejemplo perfecto en el cual a través del software con una serie de algotimos y comandos implementados puedes modificar y concretar tu propio proyecto o el de otros usuarios de manera cooperatriva
+
 ![Logo_Github](https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg)
 
 ### Bibliografía
@@ -54,10 +56,11 @@ GITHUB es un claro ejemplo de hibridación de diferentes medios en el que se mue
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
 ### Webgrafía
-* https://en.wikipedia.org/wiki/Twitch_(service)#Founding_and_initial_growth_(2007%E2%80%932013)
+* https://www.xataka.com/basics/twitch-que-como-funciona-todo-para-sacarle-maximo-partido
 * https://marketing4ecommerce.net/que-es-y-como-funciona-twitch/
 * https://www.hostinger.es/tutoriales/que-es-github
 * https://www.xataka.com/basics/que-github-que-que-le-ofrece-a-desarrolladores
+* https://markdown.es/editores-markdown/
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
