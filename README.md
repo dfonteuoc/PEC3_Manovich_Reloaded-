@@ -1,33 +1,32 @@
 
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
+###  Cultura Digital - UOC
 
 
-Autor: Diego Fonte Ríos
+**Autor:** Diego Fonte Ríos
 
+**Fecha:** 15/12/2022
 
-Fecha: 15/12/2022
-
-![Hibridación](https://pbs.twimg.com/media/EAVNDNhXUAAwIIR.png) 
-
-
-
-## Planteamiento
+## Hibridación
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
->"El termino «Multimedia» fue un término importante cuando las aplicaciones culturales interactivas, que ofrecían varios tipos de medios" mientras que "híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno" - Manovich.
+>"El termino **«Multimedia»** fue un término importante cuando las aplicaciones culturales interactivas, que ofrecían varios tipos de medios" mientras que "híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se **fusionan** para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno" -  **Lev Manovich**
 
-## Caso 1: TWITCH
+![Hibridación](https://pbs.twimg.com/media/EAVNDNhXUAAwIIR.png) 
+
+A continuación se explican dos ejemplos de hibridación.
+
+## TWITCH
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ![Logo_Twitch](https://www.movistar.es/blog/wp-content/uploads/sites/3/2022/07/twitch-movistar.jpg)
 
 
-## Caso 2: GITHUB
+## GITHUB
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
