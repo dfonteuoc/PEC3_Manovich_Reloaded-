@@ -24,9 +24,9 @@ A continuación se explican dos ejemplos de hibridación.
 
 ## TWITCH
 
-Twitch es un servicio de transmisión de video en vivo estadounidense que se enfoca en la transmisión de videojuegos , incluidas transmisiones de competencias de eSports (deportes electrónicos) , además de ofrecer transmisiones de música, contenido creativo y transmisiones "IRL"(In Real Life). Twitch está gestionado por Twitch Interactive, una subsidiaria de Amazon.
+Twitch es un servicio de **transmisión de video en vivo** estadounidense que se enfoca en la transmisión de videojuegos , incluidas transmisiones de competencias de eSports (deportes electrónicos) , además de ofrecer transmisiones de música, contenido creativo y transmisiones "IRL"(In Real Life). Twitch está gestionado por Twitch Interactive, una subsidiaria de **Amazon**.
 
-En Twitch podemos ver claramente reflejado una de las declaraciones que hace Manovich, la hibridación se obtiene através de la fusión de las técnicas de software y los elementos que comparten una interfaz para crear una nueva experiencia coherente, que es diferente de experimentar indivualmente con los elementos.
+En Twitch podemos ver claramente reflejado una de las declaraciones que hace Manovich, la **hibridación** se obtiene através de la fusión de las técnicas de **software** y los elementos que comparten una interfaz para crear una nueva experiencia coherente, que es diferente de experimentar indivualmente con los elementos.
 
 >*“Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos […] Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.” Manovich, Software Takes Command*
 
@@ -43,12 +43,12 @@ Os facilito un enlace para que podáis entreteneros buscando sobre vuestras tem�
 
 ## GITHUB
 
-GitHub es un servicio basado en la nube que aloja un sistema de control de versiones (VCS) llamado Git. Éste permite a los desarrolladores colaborar y modificar proyectos compartidos, a la vez que mantienen un seguimiento detallado de su progreso.
-Github permite que los desarrolladores alojen sus proyectos creando repositorios de forma gratuita, pero para poder subir gratis los proyectos deberán ser de código abierto. Y si no quieres que tu aplicación sea de código abierto, la plataforma también tiene una versión de pago para alojar proyectos de forma privada. 
+GitHub es un servicio basado en la **nube** que aloja un sistema de control de versiones (VCS) llamado Git. Éste permite a los desarrolladores **colaborar y modificar** proyectos compartidos, a la vez que mantienen un seguimiento detallado de su progreso.
+Github permite que los desarrolladores alojen sus proyectos creando **repositorios** de forma gratuita, pero para poder subir gratis los proyectos deberán ser de código abierto. Y si no quieres que tu aplicación sea de código abierto, la plataforma también tiene una versión de pago para alojar proyectos de forma privada. 
 
 >*El resultado es un nuevo medio híbrido que combina las opciones de muchos medios aislados que existían previamente - Lev Manovich.*
 
-GITHUB es un claro ejemplo de hibridación de diferentes medios en el que el software a través de algoritmos y comandos implementados te permite almacenar proyectos en la nube, al mismo tiempo poder compartilos y dar la posibilidad de reforzarlos con la ayuda de otros usuarios.
+GITHUB es un claro ejemplo de hibridación de diferentes medios en el que el software a través de **algoritmos y comandos** implementados te permite almacenar proyectos en la nube, al mismo tiempo poder compartilos y dar la posibilidad de reforzarlos con la ayuda de otros usuarios.
 
 
 ![Logo_Github](https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg)
