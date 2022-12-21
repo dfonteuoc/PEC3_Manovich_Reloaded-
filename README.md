@@ -47,11 +47,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![Logo_Github](https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg)
 
-### Referencias y Bibliografía
+### Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 
-
+### Webgrafía
+* https://en.wikipedia.org/wiki/Twitch_(service)#Founding_and_initial_growth_(2007%E2%80%932013)
+* https://marketing4ecommerce.net/que-es-y-como-funciona-twitch/
+* https://www.hostinger.es/tutoriales/que-es-github
+* https://www.xataka.com/basics/que-github-que-que-le-ofrece-a-desarrolladores
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
