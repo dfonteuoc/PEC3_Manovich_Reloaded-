@@ -46,6 +46,7 @@ Os facilito un enlace para que podáis entreteneros buscando sobre vuestras tem�
 GitHub es un servicio basado en la nube que aloja un sistema de control de versiones (VCS) llamado Git. Éste permite a los desarrolladores colaborar y modificar proyectos compartidos, a la vez que mantienen un seguimiento detallado de su progreso.
 Github permite que los desarrolladores alojen sus proyectos creando repositorios de forma gratuita, pero para poder subir gratis los proyectos deberán ser de código abierto. Y si no quieres que tu aplicación sea de código abierto, la plataforma también tiene una versión de pago para alojar proyectos de forma privada.
 
+GITHUB es un claro ejemplo de hibridación de diferentes medios en el que se muestra que se le puede dar una utilidad al software para poder almacenar proyectos en la nube, al mismo tiempo poder compartilos y dar la posibilidad de reforzarlos con la ayuda de otros usuarios.
 ![Logo_Github](https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg)
 
 ### Bibliografía
