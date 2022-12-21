@@ -30,12 +30,12 @@ En Twitch podemos ver claramente reflejado una de las declaraciones que hace Man
 
 >“Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos […] Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.” Manovich, Software Takes Command
 
-Por ejemplo, a través de este servicio, el usuario puede vivir una experiencia inmersiva dentro del streaming disfrutando de un gameplay narrado por el creador de contenido correspondiente, mientras escuchas los dos audios, tanto el del videojuego, como el del streamer.
+Por ejemplo, a través de este servicio, puedes vivir una experiencia inmersiva dentro del streaming disfrutando de un gameplay narrado por el creador de contenido correspondiente, mientras escuchas los dos audios, tanto del videojuego, como el del streamer.
 
-U otro ejemplo, el poder disfrutar de un concierto en vivo mientras interactuas con un chat para todos los públicos pudiendo dar tu opinión acerca de lo que estás viendo y escuchando.
+U otro ejemplo, el poder disfrutar de un concierto en vivo mientras interactuas con un chat, pudiendo dar tu opinión acerca de lo que estás viendo y escuchando.
 
 Esta plataforma te aporta infinidad de posibilidades para disfrutar de tu tiempo de ocio/entretenimiento, de estudio o incluso de trabajo si es que deseas adentrarte en su mundo como creador de contenido.
-Gracias a su sencillo y cómodo sistema de stream te podrás convertir en un creador de contenido con facilidad.
+Gracias a su sencillo y cómodo sistema de creación de directos te podrás convertir en un creador de contenido con "facilidad".
 Os facilito un enlace para que podáis entreteneros buscando sobre vuestras temáticas favoritas: https://www.twitch.tv/
 
 ![Logo_Twitch](https://www.movistar.es/blog/wp-content/uploads/sites/3/2022/07/twitch-movistar.jpg)
@@ -43,7 +43,8 @@ Os facilito un enlace para que podáis entreteneros buscando sobre vuestras tem�
 
 ## GITHUB
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+GitHub es un servicio basado en la nube que aloja un sistema de control de versiones (VCS) llamado Git. Éste permite a los desarrolladores colaborar y modificar proyectos compartidos, a la vez que mantienen un seguimiento detallado de su progreso.
+Github permite que los desarrolladores alojen sus proyectos creando repositorios de forma gratuita, pero para poder subir gratis los proyectos deberán ser de código abierto. Y si no quieres que tu aplicación sea de código abierto, la plataforma también tiene una versión de pago para alojar proyectos de forma privada.
 
 ![Logo_Github](https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg)
 
