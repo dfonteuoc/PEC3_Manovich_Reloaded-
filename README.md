@@ -16,7 +16,7 @@ Para poder seguir el hilo de este informe es imprescindible plantearse la siguie
 
  El sistema híbrido de medios se define como un nuevo tipo de sistema en el que los medios más tradicionales y los nuevos se fusionan, cambian y fluyen gradualmente para crear nuevas formas. Una ejemplo de hibridación es la relación entre redes sociales y televisión, en la que ambos medios se modifican y construyen mutuamente.
 
->"El termino **«Multimedia»** fue un término importante cuando las aplicaciones culturales interactivas, que ofrecían varios tipos de medios" mientras que "híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se **fusionan** para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno" -  **Lev Manovich**
+>*"El termino **«Multimedia»** fue un término importante cuando las aplicaciones culturales interactivas, que ofrecían varios tipos de medios" mientras que "híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se **fusionan** para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno" -  **Lev Manovich***
 
 ![Hibridación](https://pbs.twimg.com/media/EAVNDNhXUAAwIIR.png) 
 
@@ -28,7 +28,7 @@ Twitch es un servicio de transmisión de video en vivo estadounidense que se enf
 
 En Twitch podemos ver claramente reflejado una de las declaraciones que hace Manovich, la hibridación se obtiene através de la fusión de las técnicas de software y los elementos que comparten una interfaz para crear una nueva experiencia coherente, que es diferente de experimentar indivualmente con los elementos.
 
->“Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos […] Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.” Manovich, Software Takes Command
+>*“Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos […] Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.” Manovich, Software Takes Command*
 
 Por ejemplo, a través de este servicio, puedes vivir una experiencia inmersiva dentro del streaming disfrutando de un gameplay narrado por el creador de contenido correspondiente, mientras escuchas los dos audios, tanto del videojuego, como el del streamer.
 
@@ -46,8 +46,8 @@ Os facilito un enlace para que podáis entreteneros buscando sobre vuestras tem�
 GitHub es un servicio basado en la nube que aloja un sistema de control de versiones (VCS) llamado Git. Éste permite a los desarrolladores colaborar y modificar proyectos compartidos, a la vez que mantienen un seguimiento detallado de su progreso.
 Github permite que los desarrolladores alojen sus proyectos creando repositorios de forma gratuita, pero para poder subir gratis los proyectos deberán ser de código abierto. Y si no quieres que tu aplicación sea de código abierto, la plataforma también tiene una versión de pago para alojar proyectos de forma privada. 
 
->El resultado es un nuevo medio híbrido que combina las opciones de muchos medios aislados que existían previamente - Lev Manovich.
->
+>*El resultado es un nuevo medio híbrido que combina las opciones de muchos medios aislados que existían previamente - Lev Manovich.*
+
 GITHUB es un claro ejemplo de hibridación de diferentes medios en el que el software a través de algoritmos y comandos implementados te permite almacenar proyectos en la nube, al mismo tiempo poder compartilos y dar la posibilidad de reforzarlos con la ayuda de otros usuarios.
 
 
