@@ -10,8 +10,9 @@
 
 ## Hibridación
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Para poder seguir el hilo de este informe es imprescindible plantearse la sigueinte pregunta, 
+**¿Qué es la Hibridación de medios?**
+ El sistema híbrido de medios se define como un nuevo tipo de sistema en el que los medios más tradicionales y los nuevos se fusionan, cambian y fluyen gradualmente para crear nuevas formas. Una ejemplo de hibridación es la relación entre redes sociales y televisión, en la que ambos medios se modifican y construyen mutuamente.
 
 >"El termino **«Multimedia»** fue un término importante cuando las aplicaciones culturales interactivas, que ofrecían varios tipos de medios" mientras que "híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se **fusionan** para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno" -  **Lev Manovich**
 
@@ -21,7 +22,13 @@ A continuación se explican dos ejemplos de hibridación.
 
 ## TWITCH
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Twitch es un servicio de transmisión de video en vivo estadounidense que se enfoca en la transmisión de videojuegos , incluidas transmisiones de competencias de eSports (deportes electrónicos) , además de ofrecer transmisiones de música, contenido creativo y transmisiones "IRL"(In Real Life). Twitch está gestionado por Twitch Interactive, una subsidiaria de Amazon.
+
+En Twitch podemos ver claramente reflejado una de las declaraciones que hace Manovich, la hibridación se obtiene através de la fusión de las técnicas de software y los elementos que comparten una interfaz para crear una nueva experiencia coherente, que es diferente de experimentar indivualmente con los elementos.
+
+>“Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos […] Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.” Manovich, Software Takes Command
+
+EnTwitch c
 
 ![Logo_Twitch](https://www.movistar.es/blog/wp-content/uploads/sites/3/2022/07/twitch-movistar.jpg)
 
